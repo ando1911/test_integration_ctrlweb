@@ -11,7 +11,7 @@ Ceci est un projet de teste d'integration.
 
 ## Cloner le projet depuis le dépôt Git
 
-le projet est dans le branche develop
+les configurations de base pour avoir le projet.
 
 ```sh
 git clone https://github.com/ando1911/test_integration_ctrlweb.git
