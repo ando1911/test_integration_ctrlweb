@@ -1,28 +1,36 @@
 # test_integration_ctrlweb
 
-This template should help get you started developing with Vue 3 in Vite.
+Ceci est un projet de teste d'integration.
 
-## Recommended IDE Setup
+## Recommandation IDE 
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
 
-## Customize configuration
+## Cloner le projet depuis le dépôt Git
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+le projet est dans le branche developper
 
-## Project Setup
+```sh
+git clone https://github.com/ando1911/test_integration_ctrlweb.git
+
+cd test_integration_ctrlweb/
+
+git flow init
+
+```
+## installation de dependance
 
 ```sh
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+### Compiler le projet en tant dev
 
 ```sh
 npm run dev
 ```
 
-### Compile and Minify for Production
+### Compiler le projet en tant prod
 
 ```sh
 npm run build
