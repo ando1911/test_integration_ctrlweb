@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# test_integration_ctrlweb
-=======
 # test_integration_ctrlweb
 
 Ceci est un projet de teste d'integration.
@@ -38,4 +35,3 @@ npm run dev
 ```sh
 npm run build
 ```
->>>>>>> 27b93c2 (init project)
